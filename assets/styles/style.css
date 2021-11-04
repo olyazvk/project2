@@ -1,0 +1,165 @@
+/* GLOBAL*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:0 auto ;
+}
+/*HEADER*/
+.header{
+    width: 1100px;
+    height: 120px;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-around;
+margin-bottom: 126px;
+}
+.Logo{
+    width: 200px;
+    height: 40px;
+}
+.menu a{
+    text-decoration: none;
+    color: #19191B;
+    margin-left: 49px;
+    
+}
+
+.get-start{
+    width: 211px;
+    height: 60px;
+    background: #FF7143;
+    border-radius: 10%;
+    color: #FFFFFF;
+    box-shadow: 0000;
+    border: 0;
+    
+}
+.your-busines{
+    width: 1150px;
+    height: 650px;
+    display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+margin-bottom: 201px;
+}
+    
+.img-busines{
+    width: 580px;
+    height: 644px;
+    margin-left: 130px;
+}
+
+.text-busines{
+    width: 462px;
+    height: 644px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 184px;
+}
+.grow{
+    font-size: 80px;
+    color:#19191B;
+    margin-bottom: 30px;
+}
+.outcome{
+    font-size: 20px;
+    color: #696871;
+}
+.oval{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.down-oval{
+    display: flex;
+    flex-direction: row;
+    height:60px;
+}
+.btn-new{
+background:#5454D4;
+margin-right: 40px;
+}
+.img5{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 160px;
+
+}
+.img5-1{
+    width:120px ;
+    height: 28px;
+}
+.img5-2{
+    width:124px ;
+    height: 29px;
+}
+.img5-3{
+    width: 101px; ;
+    height: 48px;
+}
+.img5-4{
+    width: 118px ;
+    height: 24px;
+}
+.img5-5{
+    width: 127px ;
+    height: 30px;
+}
+.learn-more{
+    color: #5454D4;
+    margin-top: 52px;
+    
+}
+.learn{
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-items: flex-start;
+}
+.learn-more1{
+    color: #5454D4;
+    margin-top: 52px;
+    
+}
+.learn1{
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-items: flex-start;
+}
+.busines2{
+
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-around;
+margin-bottom: 83px;
+
+
+}
+.peaple2{
+    width: 175px;
+    height: 473px; 
+    margin-right: 166px;
+
+}
+.peaple3{
+    width: 324px;
+    height: 474px;
+    margin-left: 158px;
+}
+
